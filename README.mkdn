@@ -1,0 +1,4 @@
+```
+QSSI Tag   : LA.QSSI.12.0.r1-08500-qssi.0
+VENDOR Tag : LA.UM.9.14.2.r1-01700-QCM6490.QSSI12.0
+```
